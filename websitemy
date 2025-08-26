@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="steyle.css">
+</head>
+<body>
+    
+
+  <header>
+    <nav>
+      <a href="#">Shop</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+    <h1>CALISTO PARK</h1>
+  </header>
+
+  <section class="about">
+    <h2>Who We Are</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, aliquid impedit? Velit,
+      Dignissimos deleniti quis, neque libero aspernatur harum aliquam nisi ducimus repellat 
+      Earum tempora natus ad quae ullam iure exercitationem fugiat corporis esse aspernatur 
+    </p>
+  </section>
+
+  <section class="products-section">
+    <h2>Featured Products</h2>
+    <div class="products">
+      <div class="product">
+        <img src="marijuana 5.jfif" alt="">
+        <p>Vip Marijuana - $55</p>
+      </div>
+      <div class="product">
+        <img src="photo.webp" alt="">
+        <p>Classic Marijuana - $65</p>
+      </div>
+      <div class="product">
+        <img src="marihuana.jpg" alt="">
+        <p>Marijuana 100 of 1 - $2000</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="newsletter">
+    <h2>Sign up for our Newsletter</h2>
+    <input type="email" placeholder="Enter email">
+    <button>Submit</button>
+  </section>
+
+  <footer>
+    <p> 2025 Calisto Park</p>
+  </footer>
+
+</body>
+</html>
